@@ -8,10 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 ```
 example 1
-  example 2
-  *example 3
-  * example 4
-  **example 5*
-  *example 6*
-  example 7 [PurpleBooth](https://github.com/PurpleBooth)
+example 1.1
 ```
+example 2
+*example 3
+* example 4
+**example 5*
+*example 6*
+example 7 [PurpleBooth](https://github.com/PurpleBooth)
