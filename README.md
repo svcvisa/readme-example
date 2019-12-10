@@ -1,19 +1,15 @@
 # Project Title
-One Paragraph of project description goes here
+First heading
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Second heading
 
 ### Prerequisites
-What things you need to install the software and how to install them
+third heading w/ examples below
 ```
 example 1
-example 1.1
 ```
-* **Billie Thompson** - *Initial work*
 
-* example 4
+* **Sampath Kunapareddy** - *Initial work*
 
-*example 6*
-
-example 7 [PurpleBooth](https://github.com/PurpleBooth)
+example7 [samk238](https://github.com/samk238)
