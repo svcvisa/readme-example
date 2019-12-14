@@ -10,11 +10,11 @@ prints with space in from and as a block (this line should be in between ``` (th
 
 * Dot (text with one "*" at beginning)
 
-**BOLD (text between two "**")**
+**BOLD (text between two stars)**
 
-*Italic (text between one "*")*
+*Italic (text between one star)*
 
-normal text [hyperlink](https://github.com/samk238)
+normaltext [hyperlink](https://github.com/samk238)
 
 ```diff
 - for text in red between "```diff" and "```"
