@@ -1,24 +1,24 @@
-# View as RAW for syntax
+# BIG HEADING (with one "#")
+normal text (no syntax needed)
 
-# Project Title
-First heading
+## SMALLER THAN ABOVE (with two "##")
 
-## Getting Started
-Second heading
-
-### Prerequisites
-third heading w/ examples below
+### VERY SMALL HEADING THAN ABOVE TWO (with three "###")
 ```
-example 1
+prints with space in from and as a block (this line should be in between ``` (three back quotes))
 ```
 
-* **Sampath Kunapareddy** - *Initial work*
+* Dot (text with one "*" at beginning)
 
-example7 [samk238](https://github.com/samk238)
+**BOLD (text between two "**")**
+
+*Italic (text between one "*")*
+
+normal text [hyperlink](https://github.com/samk238)
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+- for text in red between "```diff" and "```"
++ for text in green between "```diff" and "```"
+! for text in orange between "```diff" and "```"
+# for text in gray between "```diff" and "```"
 ```
