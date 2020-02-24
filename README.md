@@ -22,3 +22,5 @@ normaltext [hyperlink](https://github.com/samk238)
 ! for text in orange between "```diff" and "```"
 # for text in gray between "```diff" and "```"
 ```
+
+```diff" sample "```
